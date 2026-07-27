@@ -157,7 +157,7 @@ HTML | CSS | JavaScript | Node.js | Express.js | SQLite3 | SQL | Java | Python |
 # 📫 Connect With Me
 
 GitHub:
-Your GitHub Profile Link
+https://
 
 LinkedIn:
 Your LinkedIn Profile Link
