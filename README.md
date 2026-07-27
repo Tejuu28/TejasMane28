@@ -157,11 +157,9 @@ HTML | CSS | JavaScript | Node.js | Express.js | SQLite3 | SQL | Java | Python |
 # 📫 Connect With Me
 
 GitHub:
-https://
-
+https://github.com/Tejuu28
 LinkedIn:
-Your LinkedIn Profile Link
-
+https://www.linkedin.com/in/tejas-mane-6522b33b6
 ---
 
 ⭐ Thanks for visiting my profile!
